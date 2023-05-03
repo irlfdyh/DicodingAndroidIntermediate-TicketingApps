@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TicketingApps</string>
+    <string name="str_finish">Selesai</string>
 </resources>
